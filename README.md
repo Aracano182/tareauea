@@ -1,2 +1,2 @@
-# tarea_10_UEA
+# Tarea_10_UEA
 Tarea creacion de repositorio 
